@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import bgImage from './assets/images/bg-tree.png'
+
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import Trendyplants from './Components/Trendyplants';

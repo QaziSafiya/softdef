@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../assets/images/Group 35.png";
-import navitems from "../assets/images/Group 2.png";
+
 import search from "../assets/images/search.png";
 import menu from "../assets/images/Line 2.png";
 import bag from "../assets/images/bag 1.png";
@@ -8,8 +8,6 @@ import bag from "../assets/images/bag 1.png";
 const Navbar = () => {
     return (
         <div className="w-full flex items-center justify-between px-4 sm:px-6 md:px-10 py-5 absolute top-0 left-0 z-50">
-
-
             <div className=" w-[160px] h-[40px] sm:w-[190px] sm:h-[40px] md:w-[225px] md:h-[48px]">
                 <img src={logo} alt="logo" className="" />
             </div>
