@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../assets/images/Group 35.png";
-
 import search from "../assets/images/search.png";
 import menu from "../assets/images/Line 2.png";
 import bag from "../assets/images/bag 1.png";
